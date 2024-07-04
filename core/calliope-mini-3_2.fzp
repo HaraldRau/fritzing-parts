@@ -631,7 +631,7 @@
       </views>
     </connector>
     <connector id="connector41" type="male" name="Pin 42">
-      <description>jadac1-2/GND</description>
+      <description>jadac2-2/GND</description>
       <views>
         <breadboardView>
           <p svgId="connector41pin" layer="breadboard"/>
@@ -642,7 +642,7 @@
       </views>
     </connector>
     <connector id="connector42" type="male" name="Pin 43">
-      <description>jadac1-3/3V3</description>
+      <description>jadac2-3/3V3</description>
       <views>
         <breadboardView>
           <p svgId="connector42pin" layer="breadboard"/>
