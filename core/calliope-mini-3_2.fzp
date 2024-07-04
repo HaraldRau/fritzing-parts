@@ -800,6 +800,22 @@
       <nodeMember connectorId="connector9"/>
       <nodeMember connectorId="connector46"/>
     </bus>
+    <bus id="SCL">
+      <nodeMember connectorId="connector17"/>
+      <nodeMember connectorId="connector4"/>
+    </bus>
+    <bus id="SDA">
+      <nodeMember connectorId="connector33"/>
+      <nodeMember connectorId="connector3"/>
+    </bus>
+    <bus id="RX">
+      <nodeMember connectorId="connector50"/>
+      <nodeMember connectorId="connector31"/>
+    </bus>
+    <bus id="TX">
+      <nodeMember connectorId="connector49"/>
+      <nodeMember connectorId="connector16"/>
+    </bus>
   </buses>
   <url>https://calliope.cc/en/calliope-mini/calliope-mini-3</url>
 </module>
